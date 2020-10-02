@@ -1,4 +1,5 @@
-# Jumpy  (pygame project #4)
+# Jumpy  (pygame project #4) - 
+An Amazing Game
 
 
 Final PyGame Project that I have been working for few days. I think this is my final project with PyGame. I tried to complete this game as comfortable as possible for gamers. Using classes and other mathematical algorithms for collision and movement made game faster and easier to play. More Information about is down bellow :
